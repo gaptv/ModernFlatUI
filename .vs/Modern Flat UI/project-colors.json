@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0999110a-91b1-40d7-88cc-5c182cbcaf9e": {
+      "ProjectGuid": "0999110a-91b1-40d7-88cc-5c182cbcaf9e",
+      "DisplayName": "Modern Flat UI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

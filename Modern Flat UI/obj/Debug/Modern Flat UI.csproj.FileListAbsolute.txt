@@ -1,0 +1,11 @@
+C:\프로젝트\소프트웨어\유툽강좌\Modern Flat UI\Modern Flat UI\bin\Debug\Modern Flat UI.exe.config
+C:\프로젝트\소프트웨어\유툽강좌\Modern Flat UI\Modern Flat UI\bin\Debug\Modern Flat UI.exe
+C:\프로젝트\소프트웨어\유툽강좌\Modern Flat UI\Modern Flat UI\bin\Debug\Modern Flat UI.pdb
+C:\프로젝트\소프트웨어\유툽강좌\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.csproj.AssemblyReference.cache
+C:\프로젝트\소프트웨어\유툽강좌\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.csproj.SuggestedBindingRedirects.cache
+C:\프로젝트\소프트웨어\유툽강좌\Modern Flat UI\Modern Flat UI\obj\Debug\Modern_Flat_UI.Form1.resources
+C:\프로젝트\소프트웨어\유툽강좌\Modern Flat UI\Modern Flat UI\obj\Debug\Modern_Flat_UI.Properties.Resources.resources
+C:\프로젝트\소프트웨어\유툽강좌\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.csproj.GenerateResource.cache
+C:\프로젝트\소프트웨어\유툽강좌\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.csproj.CoreCompileInputs.cache
+C:\프로젝트\소프트웨어\유툽강좌\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.exe
+C:\프로젝트\소프트웨어\유툽강좌\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.pdb
